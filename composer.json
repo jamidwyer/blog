@@ -1,0 +1,11 @@
+{
+  "name": "jamidwyer/blog",
+  "description": "Content type, view, and context to create teaser view at /blog.",
+  "type": "project",
+  "license": "GPL-2.0+",
+  "support": {
+    "issues": "https://github.com/jamidwyer/blog/issues",
+    "source": "https://github.com/jamidwyer/blog/tree/master",
+    "wiki": "https://github.com/jamidwyer/blog/wiki"
+  }
+}
