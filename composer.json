@@ -1,11 +1,6 @@
 {
-  "name": "jamidwyer/blog",
-  "description": "Content type, view, and context to create teaser view at /blog.",
-  "type": "project",
-  "repositories": [
-    {
-      "type": "vcs",
-      "url": "git://github.com/jamidwyer/blog.git",
-    }
-  ]
+    "name": "jamidwyer/blog",
+    "description": "Drupal 8 blog setup for testing my composer setup",
+    "type": "project",
+    "license": "GPL-2.0+"
 }
