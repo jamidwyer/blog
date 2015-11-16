@@ -1,6 +1,10 @@
 {
     "name": "jamidwyer/blog",
-    "description": "Drupal 8 blog setup for testing my composer setup",
     "type": "project",
-    "license": "GPL-2.0+"
+    "description": "Drupal 8 blog config to test composer setup.",
+    "homepage": "https://github.com/jamidwyer/blog",
+    "license": "GPL-2.0+",
+    "require": {
+        "php": ">=5.3.0"
+    }
 }
