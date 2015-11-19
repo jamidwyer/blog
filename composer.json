@@ -1,6 +1,6 @@
 {
     "name": "jamidwyer/blog",
-    "type": "project",
+    "type": "drupal-module",
     "description": "Drupal 8 blog config to test composer setup.",
     "homepage": "https://github.com/jamidwyer/blog",
     "license": "GPL-2.0+",
